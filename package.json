@@ -1,0 +1,9 @@
+{
+  "name": "rdl-node-packagemanager-field",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
